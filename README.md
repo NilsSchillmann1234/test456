@@ -2,6 +2,9 @@
 
 > **Für Kursteilnehmer*innen:** Diese Sektion nach dem Setup deines Projekts löschen!
 
+
+Hallo du!!!!
+
 ## So verwenden Sie dieses Template:
 Dieses Template hilft dir, dein Data Science Projekt effizient zu organisieren und zu dokumentieren. Es bietet eine gängige Struktur, um deine Arbeit zu planen, durchzuführen und zu präsentieren.
 
